@@ -50,8 +50,10 @@
     <string name="the_artist_of_the_song">The Artist Of The Song</string>
     <string name="this_is_artist_of_the_song">This Is Artist Of The Song</string>
     <string name="error_playing_track">Error Playing Track</string>
+
     <string name="no_equalizer">No equalizer found.</string>
     <string name="no_audio_ID">"Play a song first, then try again."</string>
+
     <string name="accessibility_play">Play</string>
     <string name="accessibility_pause">Pause</string>
     <string name="accessibility_next">Next</string>
@@ -306,7 +308,7 @@
     <string name="save_playlist_title">Save as file</string>
     <string name="save_playlists_title">Save as files</string>
     <string name="english">English</string>
-    <string name="viet_nam" translatable="false">Việt Nam</string>
+    <string name="viet_nam" translatable="false">中文</string>
     <string name="language">Language</string>
     <string name="specific_playlist">Specific Playlist</string>
     <string name="create">Create one now</string>
